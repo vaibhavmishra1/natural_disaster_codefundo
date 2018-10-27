@@ -1,6 +1,3 @@
-# natural_disaster_codefundo
-IOT and Computer Vision based solution to prevent and predict real-time earthquake.
-
 ********************************* MICROSOFT CODEFUNDO++ *********************
 
 TEAM MEMBERS - VAIBHAV MISHRA, SHREYAS MAHAJAN ,GAGANDEEP SINGH
